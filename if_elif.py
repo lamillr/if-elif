@@ -17,7 +17,7 @@ def fruit_color(fruit):
     elif fruit == 'pear':
         return 'green'
 
-print(fruit_color('peach'))
+print(fruit_color('pear'))
 
 print("Question 12")
 
